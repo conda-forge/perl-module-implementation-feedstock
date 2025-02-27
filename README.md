@@ -184,5 +184,6 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/perl-packagers](https://github.com/orgs/conda-forge/teams/perl-packagers/)
+* [@dslarm](https://github.com/dslarm/)
 * [@xileF1337](https://github.com/xileF1337/)
 
